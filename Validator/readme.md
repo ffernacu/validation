@@ -6,7 +6,7 @@
 * maven 3.8.8
 * jakarta.validation-api
 
-## UseCase Validator for jakarta validation
-- CompletableFuture
+## UseCase for jakarta validation
+- Validator
 - ConstraintViolationException
 - Constraints

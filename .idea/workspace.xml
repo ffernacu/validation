@@ -12,6 +12,7 @@
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Validator/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Validator/readme.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Validator/src/main/java/pe/example/Application.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Validator/src/main/java/pe/example/app/api/UserApi.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Validator/src/main/java/pe/example/app/dto/UserDTO.java" afterDir="false" />
@@ -20,7 +21,6 @@
       <change afterPath="$PROJECT_DIR$/Validator/src/main/java/pe/example/app/validation/handler/ValidationException.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Validator/src/main/java/pe/example/app/validation/impl/ValidationImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pe/example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,9 +54,15 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "jdk.selected.JAVA_MODULE": "17"
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "C:/Users/Freddy Fernandez/Documents/Desarrollo Software/Java/Autentication/Validation/Validator"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Freddy Fernandez\Documents\Desarrollo Software\Java\Autentication\Validation\Validator" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pe.example.Application" />
